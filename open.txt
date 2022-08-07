@@ -1,0 +1,33 @@
+Open git bash
+
+Either 
+
+cd ~
+
+cd ~/ga_fewd
+cd ~/ga_fewd/unit1/
+
+
+Go to https://github.com/FEWD-7-26
+
+Find the repo that you need
+Fork it
+
+
+Click on code (usually blue or green button)
+Press the copy icon to copy the git url
+
+Goto git bash
+
+Type in
+git clone INSERTCOPIEDURLHERE
+
+press enter
+then press ls to check if folder is there
+then cd into that folder
+
+
+if you want to check to see if you have the right address
+git remote -v
+
+if it has your username then it's forked
